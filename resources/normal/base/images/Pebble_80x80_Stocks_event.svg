@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Comments" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 80 80" enable-background="new 0 0 80 80" display="none" xml:space="preserve">
-<line display="inline" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="67" x2="12" y2="14"/>
-<path display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-	M12,67l18-34l12,15l13-28l14,14v33H12z"/>
-<polygon display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-	12,60 18,66 12,72 6,66 12,60 "/>
-<polygon display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-	69,28 75,34 69,40 63,34 69,28 "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Comments" x="0" y="0" display="none" enable-background="new 0 0 80 80" version="1.1" viewBox="0 0 80 80" xml:space="preserve"><line x1="12" x2="12" y1="67" y2="14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4" display="inline"/><path fill="#FFF" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4" d="M12,67l18-34l12,15l13-28l14,14v33H12z" display="inline"/><polygon fill="#FFF" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4" points="12 60 18 66 12 72 6 66 12 60" display="inline"/><polygon fill="#FFF" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4" points="69 28 75 34 69 40 63 34 69 28" display="inline"/></svg>
